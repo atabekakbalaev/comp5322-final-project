@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/comp5322-final-project.iml" filepath="$PROJECT_DIR$/.idea/comp5322-final-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-security-postgresql.iml" filepath="$PROJECT_DIR$/spring-boot-security-postgresql.iml" />
     </modules>
   </component>
 </project>
